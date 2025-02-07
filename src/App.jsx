@@ -44,8 +44,12 @@ export default function Page() {
             Wujuuuuuuu!!!
           </div>
           <div className="text-4xl md:text-6xl font-bold my-4" style={{ color: "#E30B5C" }}>
-            Nos vemos el viernes 14! Te quiero!!!
+            Nos vemos el viernes 14! 
           </div>
+          <div className="text-4xl md:text-6xl font-bold my-4" style={{ color: "#E30B5C" }}>
+            Te quiero!!!
+          </div>
+          
         </>
       ) : (
         <>
